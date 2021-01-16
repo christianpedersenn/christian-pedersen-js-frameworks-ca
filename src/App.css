@@ -1,0 +1,50 @@
+h1 {
+  text-align: center;
+}
+
+.success {
+  color: #0F9D58;
+}
+
+.success ~ .form-control {
+  border-color: #0F9D58;
+}
+
+.form-text {
+  color: #DB4437;
+}
+
+.card {
+  margin-right: 20px;
+  margin-top: 40px;
+}
+
+.search {
+  margin: 20px;
+  max-width: 97%;
+}
+
+.errorMessage {
+  color: #DB4437;
+  text-align: center;
+}
+
+.submitButton {
+  margin-left: 40%;
+  width: 200px;
+  border-radius: 0px;
+}
+
+.image {
+  margin: 20px auto;
+  display: block;
+}
+
+.nav-link {
+ color: #fff;
+}
+
+.spinner {
+  margin: 250px auto;
+  display: block;
+}

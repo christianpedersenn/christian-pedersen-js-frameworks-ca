@@ -1,0 +1,10 @@
+.DS_Store
+.eslintcache
+Thumbs.db
+db.json
+*.log
+.deploy*/
+src/_drafts
+package-lock.json
+node_modules
+git
